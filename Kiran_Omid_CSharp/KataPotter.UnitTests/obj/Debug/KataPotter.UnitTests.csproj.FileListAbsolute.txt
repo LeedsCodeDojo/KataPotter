@@ -1,0 +1,17 @@
+C:\Users\Kiran\Source\Repos\LeedsCodeDojo\KataPotter.UnitTests\bin\Debug\KataPotter.UnitTests.dll
+C:\Users\Kiran\Source\Repos\LeedsCodeDojo\KataPotter.UnitTests\bin\Debug\KataPotter.UnitTests.pdb
+C:\Users\Kiran\Source\Repos\LeedsCodeDojo\KataPotter.UnitTests\bin\Debug\FluentAssertions.Core.dll
+C:\Users\Kiran\Source\Repos\LeedsCodeDojo\KataPotter.UnitTests\bin\Debug\FluentAssertions.dll
+C:\Users\Kiran\Source\Repos\LeedsCodeDojo\KataPotter.UnitTests\bin\Debug\Moq.dll
+C:\Users\Kiran\Source\Repos\LeedsCodeDojo\KataPotter.UnitTests\bin\Debug\nunit.framework.dll
+C:\Users\Kiran\Source\Repos\LeedsCodeDojo\KataPotter.UnitTests\bin\Debug\FluentAssertions.pdb
+C:\Users\Kiran\Source\Repos\LeedsCodeDojo\KataPotter.UnitTests\bin\Debug\FluentAssertions.xml
+C:\Users\Kiran\Source\Repos\LeedsCodeDojo\KataPotter.UnitTests\bin\Debug\FluentAssertions.Core.pdb
+C:\Users\Kiran\Source\Repos\LeedsCodeDojo\KataPotter.UnitTests\bin\Debug\FluentAssertions.Core.xml
+C:\Users\Kiran\Source\Repos\LeedsCodeDojo\KataPotter.UnitTests\bin\Debug\Moq.xml
+C:\Users\Kiran\Source\Repos\LeedsCodeDojo\KataPotter.UnitTests\bin\Debug\nunit.framework.xml
+C:\Users\Kiran\Source\Repos\LeedsCodeDojo\KataPotter.UnitTests\obj\Debug\KataPotter.UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Kiran\Source\Repos\LeedsCodeDojo\KataPotter.UnitTests\obj\Debug\KataPotter.UnitTests.dll
+C:\Users\Kiran\Source\Repos\LeedsCodeDojo\KataPotter.UnitTests\obj\Debug\KataPotter.UnitTests.pdb
+C:\Users\Kiran\Source\Repos\LeedsCodeDojo\KataPotter.UnitTests\bin\Debug\KataPotter.dll
+C:\Users\Kiran\Source\Repos\LeedsCodeDojo\KataPotter.UnitTests\bin\Debug\KataPotter.pdb

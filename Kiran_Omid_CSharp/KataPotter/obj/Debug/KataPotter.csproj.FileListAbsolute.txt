@@ -1,0 +1,5 @@
+C:\Users\Kiran\Source\Repos\LeedsCodeDojo\KataPotter\bin\Debug\KataPotter.dll
+C:\Users\Kiran\Source\Repos\LeedsCodeDojo\KataPotter\bin\Debug\KataPotter.pdb
+C:\Users\Kiran\Source\Repos\LeedsCodeDojo\KataPotter\obj\Debug\KataPotter.csprojResolveAssemblyReference.cache
+C:\Users\Kiran\Source\Repos\LeedsCodeDojo\KataPotter\obj\Debug\KataPotter.dll
+C:\Users\Kiran\Source\Repos\LeedsCodeDojo\KataPotter\obj\Debug\KataPotter.pdb
