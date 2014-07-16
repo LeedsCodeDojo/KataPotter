@@ -16,10 +16,9 @@ class TestPotterKata(unittest.TestCase):
 
     def test_BookPurchaseCounts(self):
         countDict = kp.BookPurchase(("A", "B", "B", "C", "C", "C")).Counts
-        self.assertEqual(3, len(countDict))
-        self.assertEqual(countDict["A"], 1)
-        self.assertEqual(countDict["B"], 2)
-        self.assertEqual(countDict["C"], 3)        
+        expectedTuples = [("A", 1), ("B", 2), ("C", 3)]
+        dictTuples = sorted([(k, v) for k, v in countDict.items()])
+        self.assertEqual(expectedTuples, dictTuples)
         
     def test_Cost_SingleBook(self):
         bp = kp.BookPurchase(("A"))
